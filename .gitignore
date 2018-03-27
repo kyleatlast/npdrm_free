@@ -1,0 +1,4 @@
+*.o
+*.elf
+*.prx
+np9660_patch.h

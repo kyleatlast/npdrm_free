@@ -1,0 +1,29 @@
+v6.3:
+    Fixed the crashes when resuming from sleep.
+
+v6.2:
+	Creates ms0:/PSP/LICENSE folder if it's missing.
+
+v6.1:
+	Fixed the issue from v6 with launching ISO/CSO games from the XMB.
+
+v6:
+	Added a patch to allow boot mode 2 (BOOTABLE in PARAM.SFO) to run.
+
+v5.1:
+	Fixed some checks to prevent this plugin from running on non-PSN games (crashed on ISO/CSO games).
+
+v5:
+	Fixed issues with 6.20 compatibility.
+
+v4:
+	Added 6.20 compatibility and support for licensed DLC (no SPRX support yet).
+
+v3:
+	Added support for licensed game software manuals in the VSH.
+
+v2:
+	Added a patch to create a fake flash2:/act.dat for PSPs without one.
+
+v1:
+	Initial release.
